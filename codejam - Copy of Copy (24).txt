@@ -3,16 +3,16 @@
 <body>
 
 <h1>My name is: </h1>
-<p>Camille</p>
+<p>Sarena Hieng</p>
 
 <!-- This is an HTML comment -->
 <!-- What that means is that these lines won't be displayed on the website -->
 <!-- You can use it to add notes in your code -->
 
 <!-- Some different types of headers (h1 largest, they go all the way down to size 6 or so) -->
-<h1>hi</h1>
-<h2>hello</h2>
-<h3>yay!</h3>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
 
 <!-- A basic image example -->
 <img src="https://codejam.fun/media/logos/jam-jar.png" alt="Code Jam Logo" width="104">
