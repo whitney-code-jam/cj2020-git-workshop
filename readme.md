@@ -1,5 +1,5 @@
 # Github Workshop
-# Code Jam 2020
+### Code Jam 2020
 
 Link to spreadsheet:
 
