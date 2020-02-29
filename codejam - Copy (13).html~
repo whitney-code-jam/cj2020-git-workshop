@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html>
-<body>
+	<head>
+		<title>Code Jam Workshop</title>
+		<meta charset="utf-8">
+		<meta type="author" content="ProgrammerPlays">
+		<style>
+			.open-header {
+				font-family: Calibri, Verdana, "Times New Roman", monospace;
+			}
+			.name {
+				font-family: Verdana, sans-serif;
+			}
+			.sample-header {
+				font-family: Verdana, sans-serif;
+		</style>
+	</head>
+	<body>
+		<h1 class="open-header">My name is: </h1>
+		<p class="name">William Parker</p>
 
-<h1>My name is: </h1>
-<p>PLACE NAME HERE</p>
+		<h1 class="sample-header">H1</h1>
+		<h2 class="sample-header">H2</h2>
+		<h3 class="sample-header">H3</h3>
 
-<!-- This is an HTML comment -->
-<!-- What that means is that these lines won't be displayed on the website -->
-<!-- You can use it to add notes in your code -->
-
-<!-- Some different types of headers (h1 largest, they go all the way down to size 6 or so) -->
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
-
-<!-- A basic image example -->
-<img src="https://codejam.fun/media/logos/jam-jar.png" alt="Code Jam Logo" width="104">
-
-<!--  -->
-
-
-</body>
+		<img src="https://codejam.fun/media/logos/jam-jar.png" alt="Code Jam Logo" width="104" class="imgalignc">
+	</body>
 </html>
